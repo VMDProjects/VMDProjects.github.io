@@ -1,0 +1,93 @@
+{
+  "_comment": "Iran-optimized affiliate links and merchant URLs. All payment rails support crypto payouts to avoid PayPal/Stripe restrictions in Iran.",
+  "site_config": {
+    "region": "Iran",
+    "payment_rail": "cryptocurrency",
+    "vpn_required_for_signup": true,
+    "last_updated": "2026-06-25"
+  },
+  "exchanges": {
+    "mexc_exchange": {
+      "name": "MEXC Exchange",
+      "url": "https://www.mexc.com/register?inviteCode=mexc",
+      "affiliate_dashboard": "https://www.mexc.com/affiliate/v2/InviteDetails/index/ref/your-referral-id",
+      "commission_rate": "up to 70%",
+      "payout_method": "USDT (TRC20), USDC, MX Token",
+      "notes": "No KYC for basic trading in most jurisdictions. Supports Iranian users. Up to 70% trading fee commission referral program. One of the highest-paying crypto exchange affiliate programs globally."
+    },
+    "bybit_affiliate": {
+      "name": "Bybit Affiliate Program",
+      "url": "https://www.bybit.com/invite?ref=A5O6X",
+      "affiliate_dashboard": "https://partners.bybit.com/",
+      "commission_rate": "40%",
+      "payout_method": "Crypto (BTC, USDT on any network)",
+      "notes": "Global crypto derivatives and spot exchange. Accepts users from sanctioned regions including Iran. 40% base commission with volume-based tiers up to 50%. Daily crypto payout directly to your wallet."
+    }
+  },
+  "crypto_payment_gateways": {
+    "coingate_merchant": {
+      "name": "CoinGate Merchant",
+      "url": "https://www.coingate.com/",
+      "merchant_dashboard": "https://partner.coingate.com/register",
+      "commission_rate": "1% transaction fee (as merchant)",
+      "payout_method": "Crypto to any wallet; 50+ coins accepted",
+      "notes": "Crypto payment gateway for accepting payments on your site. Sell via crypto, receive in fiat or crypto. No KYC requirements to accept payments. Ideal for Iranian merchants needing to accept international crypto payments."
+    },
+    "nowpayments": {
+      "name": "NOWPayments",
+      "url": "https://nowpayments.io/",
+      "merchant_dashboard": "https://nowpayments.io/signup",
+      "commission_rate": "0.5% transaction fee as merchant",
+      "payout_method": "200+ crypto coins, direct to your wallet",
+      "notes": "Accept 200+ cryptocurrency coins including Bitcoin, Ethereum, TRON, Solana. No KYC required for merchants. Best option for Iranian users -- does not check location of merchants or end-users. Fee as merchant is only 0.5%. Direct crypto payout to any wallet."
+    }
+  },
+  "ad_networks": {
+    "adsterra": {
+      "name": "Adsterra",
+      "url": "https://adsterra.com/",
+      "publisher_signup": "https://adsterra.com/register/publisher",
+      "commission_rate": "$5 minimum payout threshold",
+      "payout_method": "Crypto (BTC, USDT TRC20), Wire Transfer, Paxful, Cosmo Payment",
+      "notes": "Affordable $5 minimum for crypto payout. Accepts publishers from sanctioned regions. Wide range of ad formats: popunders, direct links, native banners, social bar, push notifications. Fast approval process."
+    },
+    "propellerads": {
+      "name": "PropellerAds",
+      "url": "https://propellerads.com/",
+      "publisher_signup": "https://propellerads.com/register",
+      "commission_rate": "$5 minimum payout threshold",
+      "payout_method": "Crypto (BTC, BCH, USDT, ETH, XMR), Wire Transfer, PayPal",
+      "notes": "global advertising network supporting direct crypto payouts. Lower barrier to entry than AdSense -- no website traffic requirements before signup. Pop-under and push notification ad formats perform best for content sites."
+    }
+  },
+  "blocked_from_iran_even_with_vpn": {
+    "google_adsense": {
+      "program": "Google AdSense",
+      "reason": "Iran is on Google's sanctioned-territory list. Sign-up will be rejected, or account suspended if discovered.",
+      "status": "hard-blocked"
+    },
+    "amazon_affiliates": {
+      "program": "Amazon Associates",
+      "reason": "Only available in supported countries. Requires valid foreign bank accounts for payment which conflicts with sanctions.",
+      "status": "hard-blocked"
+    },
+    "paypal_stripe": {
+      "program": "PayPal / Stripe",
+      "reason": "Banned operations in Iran since 2013 at platform level. Cannot create account or receive payments.",
+      "status": "hard-blocked"
+    }
+  },
+  "recommended_priority_order": [
+    "1. MEXC Exchange referral links (highest commission: up to 70%) - embed in review articles",
+    "2. Bybit Affiliate referral links (40% commission) - second highest paying exchange program",
+    "3. NOWPayments integration - accept crypto payments on your own site (merchant gateway)",
+    "4. BTCPay Server self-hosted - free, open-source, no third-party KYC needed",
+    "5. CoinGate -- backup payment gateway alongside BTCPay/NOWPayments",
+    "6. Adsterra / PropellerAds for display ad revenue ($5 min payout in crypto)"
+  ],
+  "integration_notes": {
+    "telegram_channel": "Use @crypto_bot or BotFather to create a Telegram channel for distributing affiliate links and articles",
+    "btcpay_server": "Install self-hosted BTCPay Server on a VPS (see setup/install-btcpay.sh) -- gives you full control, zero platform risk",
+    "content_strategy": "Focus article content on exchange comparisons, trading guides, and crypto tool reviews to naturally embed high-commission referral links"
+  }
+}
