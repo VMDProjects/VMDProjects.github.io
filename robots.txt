@@ -1,0 +1,39 @@
+# robots.txt for VMDProjects.github.io
+# Allow all legitimate search engine crawlers
+
+User-agent: *
+Allow: /
+Allow: /articles/
+Allow: /assets/
+Allow: /sitemap.xml
+
+Disallow: /logs/
+Disallow: /config/
+Disallow: /*.json$
+Disallow: /.*\.py$
+
+# Crawl delay for all crawlers
+Crawl-delay: 1
+
+# Sitemap locations
+Sitemap: https://vmdprojects.github.io/sitemap.xml
+
+# Google-specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
