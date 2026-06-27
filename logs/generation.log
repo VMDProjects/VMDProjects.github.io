@@ -26,3 +26,15 @@
 [2026-06-26 09:49:30] ============================================================
 [2026-06-26 09:49:30] Generation complete: 3 new articles created
 [2026-06-26 09:49:30] ============================================================
+[2026-06-27 05:57:50] ============================================================
+[2026-06-27 05:57:50] Starting content generation process
+[2026-06-27 05:57:50] ============================================================
+[2026-06-27 05:57:50] ✓ Configuration loaded
+[2026-06-27 05:57:50] ✓ Found 6 previously generated articles
+[2026-06-27 05:57:50] ⊘ Skipping secure-crypto-wallet (already generated)
+[2026-06-27 05:57:50] ⊘ Skipping crypto-staking-guide (already generated)
+[2026-06-27 05:57:50] ✓ Generated: Decentralized Finance (DeFi) Explained: A Beginner's Guide
+[2026-06-27 05:57:50]   └─ Saved to: articles/defi-guide-beginners.html
+[2026-06-27 05:57:50] ============================================================
+[2026-06-27 05:57:50] Generation complete: 1 new articles created
+[2026-06-27 05:57:50] ============================================================
