@@ -38,3 +38,15 @@
 [2026-06-27 05:57:50] ============================================================
 [2026-06-27 05:57:50] Generation complete: 1 new articles created
 [2026-06-27 05:57:50] ============================================================
+[2026-06-28 06:25:03] ============================================================
+[2026-06-28 06:25:03] Starting content generation process
+[2026-06-28 06:25:03] ============================================================
+[2026-06-28 06:25:03] ✓ Configuration loaded
+[2026-06-28 06:25:03] ✓ Found 7 previously generated articles
+[2026-06-28 06:25:03] ✓ Generated: Trading Cryptocurrency: Strategies for Beginners and Pros
+[2026-06-28 06:25:03]   └─ Saved to: articles/crypto-trading-strategies.html
+[2026-06-28 06:25:03] ⊘ Skipping smart-contracts-guide (already generated)
+[2026-06-28 06:25:03] ⊘ Skipping defi-guide-beginners (already generated)
+[2026-06-28 06:25:03] ============================================================
+[2026-06-28 06:25:03] Generation complete: 1 new articles created
+[2026-06-28 06:25:03] ============================================================
