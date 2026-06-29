@@ -50,3 +50,15 @@
 [2026-06-28 06:25:03] ============================================================
 [2026-06-28 06:25:03] Generation complete: 1 new articles created
 [2026-06-28 06:25:03] ============================================================
+[2026-06-29 11:35:24] ============================================================
+[2026-06-29 11:35:24] Starting content generation process
+[2026-06-29 11:35:24] ============================================================
+[2026-06-29 11:35:24] ✓ Configuration loaded
+[2026-06-29 11:35:24] ✓ Found 8 previously generated articles
+[2026-06-29 11:35:24] ⊘ Skipping defi-guide-beginners (already generated)
+[2026-06-29 11:35:24] ✓ Generated: Blockchain Technology Explained: From Basics to Applications
+[2026-06-29 11:35:24]   └─ Saved to: articles/blockchain-technology-guide.html
+[2026-06-29 11:35:24] ⊘ Skipping nft-guide-explained (already generated)
+[2026-06-29 11:35:24] ============================================================
+[2026-06-29 11:35:24] Generation complete: 1 new articles created
+[2026-06-29 11:35:24] ============================================================
