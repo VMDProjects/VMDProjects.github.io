@@ -62,3 +62,15 @@
 [2026-06-29 11:35:24] ============================================================
 [2026-06-29 11:35:24] Generation complete: 1 new articles created
 [2026-06-29 11:35:24] ============================================================
+[2026-06-30 19:20:51] ============================================================
+[2026-06-30 19:20:51] Starting content generation process
+[2026-06-30 19:20:51] ============================================================
+[2026-06-30 19:20:51] ✓ Configuration loaded
+[2026-06-30 19:20:51] ✓ Found 9 previously generated articles
+[2026-06-30 19:20:51] ⊘ Skipping smart-contracts-guide (already generated)
+[2026-06-30 19:20:51] ⊘ Skipping crypto-staking-guide (already generated)
+[2026-06-30 19:20:51] ✓ Generated: Bitcoin vs Ethereum: Detailed Comparison for Beginners
+[2026-06-30 19:20:51]   └─ Saved to: articles/bitcoin-vs-ethereum-guide.html
+[2026-06-30 19:20:51] ============================================================
+[2026-06-30 19:20:51] Generation complete: 1 new articles created
+[2026-06-30 19:20:51] ============================================================
