@@ -119,3 +119,18 @@
 [2026-07-04 09:16:47] ============================================================
 [2026-07-04 09:16:47] Generation complete: 3 new articles created
 [2026-07-04 09:16:47] ============================================================
+[2026-07-04 09:19:09] ============================================================
+[2026-07-04 09:19:09] Starting content generation process
+[2026-07-04 09:19:09] ============================================================
+[2026-07-04 09:19:09] ✓ Configuration loaded
+[2026-07-04 09:19:09] ✓ Found 19 previously generated articles
+[2026-07-04 09:19:09] ✓ Topic pool contains 5920 unique topics
+[2026-07-04 09:19:09] ✓ Generated: Soulbound Tokens Myths Debunked
+[2026-07-04 09:19:09]   └─ Saved to: articles/soulbound-tokens-myths-debunked.html
+[2026-07-04 09:19:09] ✓ Generated: Optimistic Rollups Explained: Everything You Need to Know
+[2026-07-04 09:19:09]   └─ Saved to: articles/optimistic-rollups-explained-everything-you-need-to-know.html
+[2026-07-04 09:19:09] ✓ Generated: USDT (Tether) and Financial Inclusion
+[2026-07-04 09:19:09]   └─ Saved to: articles/usdt-tether-and-financial-inclusion.html
+[2026-07-04 09:19:09] ============================================================
+[2026-07-04 09:19:09] Generation complete: 3 new articles created
+[2026-07-04 09:19:09] ============================================================
