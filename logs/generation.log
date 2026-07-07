@@ -164,3 +164,18 @@
 [2026-07-06 06:42:15] ============================================================
 [2026-07-06 06:42:15] Generation complete: 3 new articles created
 [2026-07-06 06:42:15] ============================================================
+[2026-07-07 06:14:19] ============================================================
+[2026-07-07 06:14:19] Starting content generation process
+[2026-07-07 06:14:19] ============================================================
+[2026-07-07 06:14:19] ✓ Configuration loaded
+[2026-07-07 06:14:19] ✓ Found 28 previously generated articles
+[2026-07-07 06:14:19] ✓ Topic pool contains 5920 unique topics
+[2026-07-07 06:14:19] ✓ Generated: A Beginner's Roadmap to Liquid Staking
+[2026-07-07 06:14:19]   └─ Saved to: articles/a-beginner-s-roadmap-to-liquid-staking.html
+[2026-07-07 06:14:19] ✓ Generated: The History and Evolution of DAI
+[2026-07-07 06:14:19]   └─ Saved to: articles/the-history-and-evolution-of-dai.html
+[2026-07-07 06:14:19] ✓ Generated: Decentralized Physical Infrastructure (DePIN) in 2025: Trends and Predictions
+[2026-07-07 06:14:19]   └─ Saved to: articles/decentralized-physical-infrastructure-depin-in-2025-trends-and-predictions.html
+[2026-07-07 06:14:19] ============================================================
+[2026-07-07 06:14:19] Generation complete: 3 new articles created
+[2026-07-07 06:14:19] ============================================================
