@@ -239,3 +239,18 @@
 [2026-07-11 05:18:03] ============================================================
 [2026-07-11 05:18:03] Generation complete: 3 new articles created
 [2026-07-11 05:18:03] ============================================================
+[2026-07-12 05:33:43] ============================================================
+[2026-07-12 05:33:43] Starting content generation process
+[2026-07-12 05:33:43] ============================================================
+[2026-07-12 05:33:43] ✓ Configuration loaded
+[2026-07-12 05:33:43] ✓ Found 43 previously generated articles
+[2026-07-12 05:33:43] ✓ Topic pool contains 5920 unique topics
+[2026-07-12 05:33:43] ✓ Generated: Crypto AML/KYC Compliance vs Competitors: An Honest Comparison
+[2026-07-12 05:33:43]   └─ Saved to: articles/crypto-aml-kyc-compliance-vs-competitors-an-honest-comparison.html
+[2026-07-12 05:33:43] ✓ Generated: Is Bitcoin Safe? A Security Analysis
+[2026-07-12 05:33:43]   └─ Saved to: articles/is-bitcoin-safe-a-security-analysis.html
+[2026-07-12 05:33:43] ✓ Generated: Privacy Coins and Financial Inclusion
+[2026-07-12 05:33:43]   └─ Saved to: articles/privacy-coins-and-financial-inclusion.html
+[2026-07-12 05:33:43] ============================================================
+[2026-07-12 05:33:43] Generation complete: 3 new articles created
+[2026-07-12 05:33:43] ============================================================
