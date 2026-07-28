@@ -494,3 +494,18 @@
 [2026-07-27 05:56:06] ============================================================
 [2026-07-27 05:56:06] Generation complete: 3 new articles created
 [2026-07-27 05:56:06] ============================================================
+[2026-07-28 05:19:39] ============================================================
+[2026-07-28 05:19:39] Starting content generation process
+[2026-07-28 05:19:39] ============================================================
+[2026-07-28 05:19:39] ✓ Configuration loaded
+[2026-07-28 05:19:39] ✓ Found 94 previously generated articles
+[2026-07-28 05:19:39] ✓ Topic pool contains 13065 unique topics
+[2026-07-28 05:19:39] ✓ Generated: The Real Cost of Using Cardano
+[2026-07-28 05:19:39]   └─ Saved to: articles/the-real-cost-of-using-cardano.html
+[2026-07-28 05:19:39] ✓ Generated: Lending Protocols Risks: What Nobody Tells You
+[2026-07-28 05:19:39]   └─ Saved to: articles/lending-protocols-risks-what-nobody-tells-you.html
+[2026-07-28 05:19:39] ✓ Generated: Crypto for Freelancers in 2025: Trends and Predictions
+[2026-07-28 05:19:39]   └─ Saved to: articles/crypto-for-freelancers-in-2025-trends-and-predictions.html
+[2026-07-28 05:19:39] ============================================================
+[2026-07-28 05:19:39] Generation complete: 3 new articles created
+[2026-07-28 05:19:39] ============================================================
