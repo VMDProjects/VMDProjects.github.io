@@ -509,3 +509,18 @@
 [2026-07-28 05:19:39] ============================================================
 [2026-07-28 05:19:39] Generation complete: 3 new articles created
 [2026-07-28 05:19:39] ============================================================
+[2026-07-29 05:27:05] ============================================================
+[2026-07-29 05:27:05] Starting content generation process
+[2026-07-29 05:27:05] ============================================================
+[2026-07-29 05:27:05] ✓ Configuration loaded
+[2026-07-29 05:27:05] ✓ Found 97 previously generated articles
+[2026-07-29 05:27:05] ✓ Topic pool contains 13065 unique topics
+[2026-07-29 05:27:05] ✓ Generated: How Governments Are Responding to GameFi (Play-to-Earn)
+[2026-07-29 05:27:05]   └─ Saved to: articles/how-governments-are-responding-to-gamefi-play-to-earn.html
+[2026-07-29 05:27:05] ✓ Generated: Cryptocurrency Regulation Glossary: Key Terms Defined
+[2026-07-29 05:27:05]   └─ Saved to: articles/cryptocurrency-regulation-glossary-key-terms-defined.html
+[2026-07-29 05:27:05] ✓ Generated: The Real Cost of Using Bitcoin Halving
+[2026-07-29 05:27:05]   └─ Saved to: articles/the-real-cost-of-using-bitcoin-halving.html
+[2026-07-29 05:27:05] ============================================================
+[2026-07-29 05:27:05] Generation complete: 3 new articles created
+[2026-07-29 05:27:05] ============================================================
