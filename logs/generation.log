@@ -554,3 +554,18 @@
 [2026-07-31 05:40:36] ============================================================
 [2026-07-31 05:40:36] Generation complete: 3 new articles created
 [2026-07-31 05:40:36] ============================================================
+[2026-08-01 05:32:16] ============================================================
+[2026-08-01 05:32:16] Starting content generation process
+[2026-08-01 05:32:16] ============================================================
+[2026-08-01 05:32:16] ✓ Configuration loaded
+[2026-08-01 05:32:16] ✓ Found 106 previously generated articles
+[2026-08-01 05:32:16] ✓ Topic pool contains 13065 unique topics
+[2026-08-01 05:32:16] ✓ Generated: The Real Cost of Using Restaking
+[2026-08-01 05:32:16]   └─ Saved to: articles/the-real-cost-of-using-restaking.html
+[2026-08-01 05:32:16] ✓ Generated: Is Now the Time to Get Into Technical Analysis?
+[2026-08-01 05:32:16]   └─ Saved to: articles/is-now-the-time-to-get-into-technical-analysis.html
+[2026-08-01 05:32:16] ✓ Generated: Soulbound Tokens Community and Ecosystem Overview
+[2026-08-01 05:32:16]   └─ Saved to: articles/soulbound-tokens-community-and-ecosystem-overview.html
+[2026-08-01 05:32:16] ============================================================
+[2026-08-01 05:32:16] Generation complete: 3 new articles created
+[2026-08-01 05:32:16] ============================================================
