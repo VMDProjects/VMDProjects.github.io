@@ -614,3 +614,18 @@
 [2026-08-04 05:19:36] ============================================================
 [2026-08-04 05:19:36] Generation complete: 3 new articles created
 [2026-08-04 05:19:36] ============================================================
+[2026-08-05 05:19:27] ============================================================
+[2026-08-05 05:19:27] Starting content generation process
+[2026-08-05 05:19:27] ============================================================
+[2026-08-05 05:19:27] ✓ Configuration loaded
+[2026-08-05 05:19:27] ✓ Found 118 previously generated articles
+[2026-08-05 05:19:27] ✓ Topic pool contains 13065 unique topics
+[2026-08-05 05:19:27] ✓ Generated: Mantle: A Complete Guide for 2025
+[2026-08-05 05:19:27]   └─ Saved to: articles/mantle-a-complete-guide-for-2025.html
+[2026-08-05 05:19:27] ✓ Generated: A Beginner's Roadmap to Crypto in Gaming
+[2026-08-05 05:19:27]   └─ Saved to: articles/a-beginner-s-roadmap-to-crypto-in-gaming.html
+[2026-08-05 05:19:27] ✓ Generated: Zero-Knowledge Proofs: What the Data Actually Shows
+[2026-08-05 05:19:27]   └─ Saved to: articles/zero-knowledge-proofs-what-the-data-actually-shows.html
+[2026-08-05 05:19:27] ============================================================
+[2026-08-05 05:19:27] Generation complete: 3 new articles created
+[2026-08-05 05:19:27] ============================================================
