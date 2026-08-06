@@ -629,3 +629,18 @@
 [2026-08-05 05:19:27] ============================================================
 [2026-08-05 05:19:27] Generation complete: 3 new articles created
 [2026-08-05 05:19:27] ============================================================
+[2026-08-06 05:21:39] ============================================================
+[2026-08-06 05:21:39] Starting content generation process
+[2026-08-06 05:21:39] ============================================================
+[2026-08-06 05:21:39] ✓ Configuration loaded
+[2026-08-06 05:21:39] ✓ Found 121 previously generated articles
+[2026-08-06 05:21:39] ✓ Topic pool contains 13065 unique topics
+[2026-08-06 05:21:39] ✓ Generated: Cryptocurrency Regulation Community and Ecosystem Overview
+[2026-08-06 05:21:39]   └─ Saved to: articles/cryptocurrency-regulation-community-and-ecosystem-overview.html
+[2026-08-06 05:21:39] ✓ Generated: Decentralized Autonomous Organizations (DAOs) and the Future of Payments
+[2026-08-06 05:21:39]   └─ Saved to: articles/decentralized-autonomous-organizations-daos-and-the-future-of-payments.html
+[2026-08-06 05:21:39] ✓ Generated: Hardware Wallets Integration Guide for Developers
+[2026-08-06 05:21:39]   └─ Saved to: articles/hardware-wallets-integration-guide-for-developers.html
+[2026-08-06 05:21:39] ============================================================
+[2026-08-06 05:21:39] Generation complete: 3 new articles created
+[2026-08-06 05:21:39] ============================================================
