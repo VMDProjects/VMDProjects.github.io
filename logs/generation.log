@@ -659,3 +659,18 @@
 [2026-08-07 04:29:10] ============================================================
 [2026-08-07 04:29:10] Generation complete: 3 new articles created
 [2026-08-07 04:29:10] ============================================================
+[2026-08-08 03:37:54] ============================================================
+[2026-08-08 03:37:54] Starting content generation process
+[2026-08-08 03:37:54] ============================================================
+[2026-08-08 03:37:54] ✓ Configuration loaded
+[2026-08-08 03:37:54] ✓ Found 127 previously generated articles
+[2026-08-08 03:37:54] ✓ Topic pool contains 13065 unique topics
+[2026-08-08 03:37:54] ✓ Generated: Is Now the Time to Get Into Account Abstraction?
+[2026-08-08 03:37:54]   └─ Saved to: articles/is-now-the-time-to-get-into-account-abstraction.html
+[2026-08-08 03:37:54] ✓ Generated: Building a Career Around Crypto Market Cycles
+[2026-08-08 03:37:54]   └─ Saved to: articles/building-a-career-around-crypto-market-cycles.html
+[2026-08-08 03:37:54] ✓ Generated: How Institutions Are Adopting Merchant Crypto Adoption
+[2026-08-08 03:37:54]   └─ Saved to: articles/how-institutions-are-adopting-merchant-crypto-adoption.html
+[2026-08-08 03:37:54] ============================================================
+[2026-08-08 03:37:54] Generation complete: 3 new articles created
+[2026-08-08 03:37:54] ============================================================
