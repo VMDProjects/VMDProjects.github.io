@@ -794,3 +794,18 @@
 [2026-08-16 03:04:39] ============================================================
 [2026-08-16 03:04:39] Generation complete: 3 new articles created
 [2026-08-16 03:04:39] ============================================================
+[2026-08-17 03:04:50] ============================================================
+[2026-08-17 03:04:50] Starting content generation process
+[2026-08-17 03:04:50] ============================================================
+[2026-08-17 03:04:50] ✓ Configuration loaded
+[2026-08-17 03:04:50] ✓ Found 154 previously generated articles
+[2026-08-17 03:04:50] ✓ Topic pool contains 13065 unique topics
+[2026-08-17 03:04:50] ✓ Generated: Shiba Inu Success Stories and Lessons Learned
+[2026-08-17 03:04:50]   └─ Saved to: articles/shiba-inu-success-stories-and-lessons-learned.html
+[2026-08-17 03:04:50] ✓ Generated: Kaspa Explained Through Real Examples
+[2026-08-17 03:04:50]   └─ Saved to: articles/kaspa-explained-through-real-examples.html
+[2026-08-17 03:04:50] ✓ Generated: Liquid Restaking Tokens Use Cases Beyond Speculation
+[2026-08-17 03:04:50]   └─ Saved to: articles/liquid-restaking-tokens-use-cases-beyond-speculation.html
+[2026-08-17 03:04:50] ============================================================
+[2026-08-17 03:04:50] Generation complete: 3 new articles created
+[2026-08-17 03:04:50] ============================================================
