@@ -854,3 +854,18 @@
 [2026-08-20 03:01:24] ============================================================
 [2026-08-20 03:01:24] Generation complete: 3 new articles created
 [2026-08-20 03:01:24] ============================================================
+[2026-08-21 03:07:52] ============================================================
+[2026-08-21 03:07:52] Starting content generation process
+[2026-08-21 03:07:52] ============================================================
+[2026-08-21 03:07:52] ✓ Configuration loaded
+[2026-08-21 03:07:52] ✓ Found 166 previously generated articles
+[2026-08-21 03:07:52] ✓ Topic pool contains 13065 unique topics
+[2026-08-21 03:07:52] ✓ Generated: Decentralized Autonomous Organizations (DAOs) Myths Debunked
+[2026-08-21 03:07:52]   └─ Saved to: articles/decentralized-autonomous-organizations-daos-myths-debunked.html
+[2026-08-21 03:07:52] ✓ Generated: Arbitrum Terminology Every Beginner Should Know
+[2026-08-21 03:07:52]   └─ Saved to: articles/arbitrum-terminology-every-beginner-should-know.html
+[2026-08-21 03:07:52] ✓ Generated: Preparing for the Next Phase of DAI
+[2026-08-21 03:07:52]   └─ Saved to: articles/preparing-for-the-next-phase-of-dai.html
+[2026-08-21 03:07:52] ============================================================
+[2026-08-21 03:07:52] Generation complete: 3 new articles created
+[2026-08-21 03:07:52] ============================================================
