@@ -869,3 +869,18 @@
 [2026-08-21 03:07:52] ============================================================
 [2026-08-21 03:07:52] Generation complete: 3 new articles created
 [2026-08-21 03:07:52] ============================================================
+[2026-08-22 02:58:53] ============================================================
+[2026-08-22 02:58:53] Starting content generation process
+[2026-08-22 02:58:53] ============================================================
+[2026-08-22 02:58:53] ✓ Configuration loaded
+[2026-08-22 02:58:53] ✓ Found 169 previously generated articles
+[2026-08-22 02:58:53] ✓ Topic pool contains 13065 unique topics
+[2026-08-22 02:58:53] ✓ Generated: Mantle Terminology Every Beginner Should Know
+[2026-08-22 02:58:53]   └─ Saved to: articles/mantle-terminology-every-beginner-should-know.html
+[2026-08-22 02:58:53] ✓ Generated: Fantom: A Complete Guide for 2025
+[2026-08-22 02:58:53]   └─ Saved to: articles/fantom-a-complete-guide-for-2025.html
+[2026-08-22 02:58:53] ✓ Generated: NFT Marketplaces Regulations: A Global Overview
+[2026-08-22 02:58:53]   └─ Saved to: articles/nft-marketplaces-regulations-a-global-overview.html
+[2026-08-22 02:58:53] ============================================================
+[2026-08-22 02:58:53] Generation complete: 3 new articles created
+[2026-08-22 02:58:53] ============================================================
