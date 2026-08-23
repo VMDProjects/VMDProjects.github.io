@@ -884,3 +884,18 @@
 [2026-08-22 02:58:53] ============================================================
 [2026-08-22 02:58:53] Generation complete: 3 new articles created
 [2026-08-22 02:58:53] ============================================================
+[2026-08-23 03:07:29] ============================================================
+[2026-08-23 03:07:29] Starting content generation process
+[2026-08-23 03:07:29] ============================================================
+[2026-08-23 03:07:29] ✓ Configuration loaded
+[2026-08-23 03:07:29] ✓ Found 172 previously generated articles
+[2026-08-23 03:07:29] ✓ Topic pool contains 13065 unique topics
+[2026-08-23 03:07:29] ✓ Generated: Sei Network Adoption in Emerging Markets
+[2026-08-23 03:07:29]   └─ Saved to: articles/sei-network-adoption-in-emerging-markets.html
+[2026-08-23 03:07:29] ✓ Generated: How to Get Started with Internet Computer Today
+[2026-08-23 03:07:29]   └─ Saved to: articles/how-to-get-started-with-internet-computer-today.html
+[2026-08-23 03:07:29] ✓ Generated: USDC Security Best Practices
+[2026-08-23 03:07:29]   └─ Saved to: articles/usdc-security-best-practices.html
+[2026-08-23 03:07:29] ============================================================
+[2026-08-23 03:07:29] Generation complete: 3 new articles created
+[2026-08-23 03:07:29] ============================================================
