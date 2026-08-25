@@ -914,3 +914,18 @@
 [2026-08-24 03:08:18] ============================================================
 [2026-08-24 03:08:18] Generation complete: 3 new articles created
 [2026-08-24 03:08:18] ============================================================
+[2026-08-25 03:03:38] ============================================================
+[2026-08-25 03:03:38] Starting content generation process
+[2026-08-25 03:03:38] ============================================================
+[2026-08-25 03:03:38] ✓ Configuration loaded
+[2026-08-25 03:03:38] ✓ Found 178 previously generated articles
+[2026-08-25 03:03:38] ✓ Topic pool contains 13065 unique topics
+[2026-08-25 03:03:38] ✓ Generated: Blockchain Scalability Explained: Everything You Need to Know
+[2026-08-25 03:03:38]   └─ Saved to: articles/blockchain-scalability-explained-everything-you-need-to-know.html
+[2026-08-25 03:03:38] ✓ Generated: Sui Use Cases Beyond Speculation
+[2026-08-25 03:03:38]   └─ Saved to: articles/sui-use-cases-beyond-speculation.html
+[2026-08-25 03:03:38] ✓ Generated: The History and Evolution of Hardware Wallets
+[2026-08-25 03:03:38]   └─ Saved to: articles/the-history-and-evolution-of-hardware-wallets.html
+[2026-08-25 03:03:38] ============================================================
+[2026-08-25 03:03:38] Generation complete: 3 new articles created
+[2026-08-25 03:03:38] ============================================================
