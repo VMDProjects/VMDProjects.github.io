@@ -959,3 +959,18 @@
 [2026-08-27 12:38:59] ============================================================
 [2026-08-27 12:38:59] Generation complete: 3 new articles created
 [2026-08-27 12:38:59] ============================================================
+[2026-08-28 14:12:23] ============================================================
+[2026-08-28 14:12:23] Starting content generation process
+[2026-08-28 14:12:23] ============================================================
+[2026-08-28 14:12:23] ✓ Configuration loaded
+[2026-08-28 14:12:23] ✓ Found 187 previously generated articles
+[2026-08-28 14:12:23] ✓ Topic pool contains 13065 unique topics
+[2026-08-28 14:12:23] ✓ Generated: How Institutions Are Adopting Tezos
+[2026-08-28 14:12:23]   └─ Saved to: articles/how-institutions-are-adopting-tezos.html
+[2026-08-28 14:12:23] ✓ Generated: Top 10 Things to Know About Green and Sustainable Crypto Mining
+[2026-08-28 14:12:23]   └─ Saved to: articles/top-10-things-to-know-about-green-and-sustainable-crypto-mining.html
+[2026-08-28 14:12:23] ✓ Generated: Layer 2 Rollups Explained in Plain English
+[2026-08-28 14:12:23]   └─ Saved to: articles/layer-2-rollups-explained-in-plain-english.html
+[2026-08-28 14:12:23] ============================================================
+[2026-08-28 14:12:23] Generation complete: 3 new articles created
+[2026-08-28 14:12:23] ============================================================
