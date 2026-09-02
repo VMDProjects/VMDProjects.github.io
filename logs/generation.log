@@ -1034,3 +1034,18 @@
 [2026-09-01 07:34:50] ============================================================
 [2026-09-01 07:34:50] Generation complete: 3 new articles created
 [2026-09-01 07:34:50] ============================================================
+[2026-09-02 06:58:37] ============================================================
+[2026-09-02 06:58:37] Starting content generation process
+[2026-09-02 06:58:37] ============================================================
+[2026-09-02 06:58:37] ✓ Configuration loaded
+[2026-09-02 06:58:37] ✓ Found 202 previously generated articles
+[2026-09-02 06:58:37] ✓ Topic pool contains 13065 unique topics
+[2026-09-02 06:58:37] ✓ Generated: USDT (Tether): A Complete Guide for 2025
+[2026-09-02 06:58:37]   └─ Saved to: articles/usdt-tether-a-complete-guide-for-2025.html
+[2026-09-02 06:58:37] ✓ Generated: SEC and Crypto Regulation: A Complete Guide for 2025
+[2026-09-02 06:58:37]   └─ Saved to: articles/sec-and-crypto-regulation-a-complete-guide-for-2025.html
+[2026-09-02 06:58:37] ✓ Generated: The Biggest Misconceptions About Optimistic Rollups
+[2026-09-02 06:58:37]   └─ Saved to: articles/the-biggest-misconceptions-about-optimistic-rollups.html
+[2026-09-02 06:58:37] ============================================================
+[2026-09-02 06:58:37] Generation complete: 3 new articles created
+[2026-09-02 06:58:37] ============================================================
