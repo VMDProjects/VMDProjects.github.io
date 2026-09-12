@@ -1184,3 +1184,18 @@
 [2026-09-11 07:09:45] ============================================================
 [2026-09-11 07:09:45] Generation complete: 3 new articles created
 [2026-09-11 07:09:45] ============================================================
+[2026-09-12 07:01:44] ============================================================
+[2026-09-12 07:01:44] Starting content generation process
+[2026-09-12 07:01:44] ============================================================
+[2026-09-12 07:01:44] ✓ Configuration loaded
+[2026-09-12 07:01:44] ✓ Found 232 previously generated articles
+[2026-09-12 07:01:44] ✓ Topic pool contains 13065 unique topics
+[2026-09-12 07:01:44] ✓ Generated: Tokenized Real Estate Community and Ecosystem Overview
+[2026-09-12 07:01:44]   └─ Saved to: articles/tokenized-real-estate-community-and-ecosystem-overview.html
+[2026-09-12 07:01:44] ✓ Generated: The Pros and Cons of Layer 2 Rollups
+[2026-09-12 07:01:44]   └─ Saved to: articles/the-pros-and-cons-of-layer-2-rollups.html
+[2026-09-12 07:01:44] ✓ Generated: Building Passive Income with Merchant Crypto Adoption
+[2026-09-12 07:01:44]   └─ Saved to: articles/building-passive-income-with-merchant-crypto-adoption.html
+[2026-09-12 07:01:44] ============================================================
+[2026-09-12 07:01:44] Generation complete: 3 new articles created
+[2026-09-12 07:01:44] ============================================================
