@@ -1214,3 +1214,18 @@
 [2026-09-13 07:20:54] ============================================================
 [2026-09-13 07:20:54] Generation complete: 3 new articles created
 [2026-09-13 07:20:54] ============================================================
+[2026-09-14 07:45:34] ============================================================
+[2026-09-14 07:45:34] Starting content generation process
+[2026-09-14 07:45:34] ============================================================
+[2026-09-14 07:45:34] ✓ Configuration loaded
+[2026-09-14 07:45:34] ✓ Found 238 previously generated articles
+[2026-09-14 07:45:34] ✓ Topic pool contains 13065 unique topics
+[2026-09-14 07:45:34] ✓ Generated: Blast Use Cases Beyond Speculation
+[2026-09-14 07:45:34]   └─ Saved to: articles/blast-use-cases-beyond-speculation.html
+[2026-09-14 07:45:34] ✓ Generated: Fantom Roadmap: What's Coming Next
+[2026-09-14 07:45:34]   └─ Saved to: articles/fantom-roadmap-what-s-coming-next.html
+[2026-09-14 07:45:34] ✓ Generated: Fantom vs Competitors: An Honest Comparison
+[2026-09-14 07:45:34]   └─ Saved to: articles/fantom-vs-competitors-an-honest-comparison.html
+[2026-09-14 07:45:34] ============================================================
+[2026-09-14 07:45:34] Generation complete: 3 new articles created
+[2026-09-14 07:45:34] ============================================================
