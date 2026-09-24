@@ -1364,3 +1364,18 @@
 [2026-09-23 07:35:28] ============================================================
 [2026-09-23 07:35:28] Generation complete: 3 new articles created
 [2026-09-23 07:35:28] ============================================================
+[2026-09-24 07:27:35] ============================================================
+[2026-09-24 07:27:35] Starting content generation process
+[2026-09-24 07:27:35] ============================================================
+[2026-09-24 07:27:35] ✓ Configuration loaded
+[2026-09-24 07:27:35] ✓ Found 268 previously generated articles
+[2026-09-24 07:27:35] ✓ Topic pool contains 13065 unique topics
+[2026-09-24 07:27:35] ✓ Generated: Base Compliance Checklist for 2025
+[2026-09-24 07:27:35]   └─ Saved to: articles/base-compliance-checklist-for-2025.html
+[2026-09-24 07:27:35] ✓ Generated: Getting Expert-Level Knowledge of Layer 2 Rollups
+[2026-09-24 07:27:35]   └─ Saved to: articles/getting-expert-level-knowledge-of-layer-2-rollups.html
+[2026-09-24 07:27:35] ✓ Generated: Is Algorand Overhyped? A Balanced Look
+[2026-09-24 07:27:35]   └─ Saved to: articles/is-algorand-overhyped-a-balanced-look.html
+[2026-09-24 07:27:35] ============================================================
+[2026-09-24 07:27:35] Generation complete: 3 new articles created
+[2026-09-24 07:27:35] ============================================================
