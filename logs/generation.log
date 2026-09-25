@@ -1379,3 +1379,18 @@
 [2026-09-24 07:27:35] ============================================================
 [2026-09-24 07:27:35] Generation complete: 3 new articles created
 [2026-09-24 07:27:35] ============================================================
+[2026-09-25 07:26:44] ============================================================
+[2026-09-25 07:26:44] Starting content generation process
+[2026-09-25 07:26:44] ============================================================
+[2026-09-25 07:26:44] ✓ Configuration loaded
+[2026-09-25 07:26:44] ✓ Found 271 previously generated articles
+[2026-09-25 07:26:44] ✓ Topic pool contains 13065 unique topics
+[2026-09-25 07:26:44] ✓ Generated: A Beginner's Roadmap to Swing Trading Crypto
+[2026-09-25 07:26:44]   └─ Saved to: articles/a-beginner-s-roadmap-to-swing-trading-crypto.html
+[2026-09-25 07:26:44] ✓ Generated: Bitcoin: What Changed in the Last Year
+[2026-09-25 07:26:44]   └─ Saved to: articles/bitcoin-what-changed-in-the-last-year.html
+[2026-09-25 07:26:44] ✓ Generated: Sidechains Risks: What Nobody Tells You
+[2026-09-25 07:26:44]   └─ Saved to: articles/sidechains-risks-what-nobody-tells-you.html
+[2026-09-25 07:26:44] ============================================================
+[2026-09-25 07:26:44] Generation complete: 3 new articles created
+[2026-09-25 07:26:44] ============================================================
