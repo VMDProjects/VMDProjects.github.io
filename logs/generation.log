@@ -1424,3 +1424,18 @@
 [2026-09-27 07:53:24] ============================================================
 [2026-09-27 07:53:24] Generation complete: 3 new articles created
 [2026-09-27 07:53:24] ============================================================
+[2026-09-28 08:29:13] ============================================================
+[2026-09-28 08:29:13] Starting content generation process
+[2026-09-28 08:29:13] ============================================================
+[2026-09-28 08:29:13] ✓ Configuration loaded
+[2026-09-28 08:29:13] ✓ Found 280 previously generated articles
+[2026-09-28 08:29:13] ✓ Topic pool contains 13065 unique topics
+[2026-09-28 08:29:13] ✓ Generated: Advanced Fantom Strategies for Experienced Users
+[2026-09-28 08:29:13]   └─ Saved to: articles/advanced-fantom-strategies-for-experienced-users.html
+[2026-09-28 08:29:13] ✓ Generated: The Biggest Misconceptions About Hot Wallets
+[2026-09-28 08:29:13]   └─ Saved to: articles/the-biggest-misconceptions-about-hot-wallets.html
+[2026-09-28 08:29:13] ✓ Generated: Advanced Layer 2 Rollups Strategies for Experienced Users
+[2026-09-28 08:29:13]   └─ Saved to: articles/advanced-layer-2-rollups-strategies-for-experienced-users.html
+[2026-09-28 08:29:13] ============================================================
+[2026-09-28 08:29:13] Generation complete: 3 new articles created
+[2026-09-28 08:29:13] ============================================================
