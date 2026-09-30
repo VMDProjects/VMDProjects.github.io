@@ -1454,3 +1454,18 @@
 [2026-09-29 08:11:25] ============================================================
 [2026-09-29 08:11:25] Generation complete: 3 new articles created
 [2026-09-29 08:11:25] ============================================================
+[2026-09-30 08:14:17] ============================================================
+[2026-09-30 08:14:17] Starting content generation process
+[2026-09-30 08:14:17] ============================================================
+[2026-09-30 08:14:17] ✓ Configuration loaded
+[2026-09-30 08:14:17] ✓ Found 286 previously generated articles
+[2026-09-30 08:14:17] ✓ Topic pool contains 13065 unique topics
+[2026-09-30 08:14:17] ✓ Generated: Decentralized Physical Infrastructure (DePIN) Case Studies: Real-World Examples
+[2026-09-30 08:14:17]   └─ Saved to: articles/decentralized-physical-infrastructure-depin-case-studies-real-world-examples.html
+[2026-09-30 08:14:17] ✓ Generated: The Real Cost of Using Order Book Trading
+[2026-09-30 08:14:17]   └─ Saved to: articles/the-real-cost-of-using-order-book-trading.html
+[2026-09-30 08:14:17] ✓ Generated: Crypto Estate Planning and Retirement Planning
+[2026-09-30 08:14:17]   └─ Saved to: articles/crypto-estate-planning-and-retirement-planning.html
+[2026-09-30 08:14:17] ============================================================
+[2026-09-30 08:14:17] Generation complete: 3 new articles created
+[2026-09-30 08:14:17] ============================================================
