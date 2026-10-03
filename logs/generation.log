@@ -1499,3 +1499,18 @@
 [2026-10-02 08:14:09] ============================================================
 [2026-10-02 08:14:09] Generation complete: 3 new articles created
 [2026-10-02 08:14:09] ============================================================
+[2026-10-03 07:50:43] ============================================================
+[2026-10-03 07:50:43] Starting content generation process
+[2026-10-03 07:50:43] ============================================================
+[2026-10-03 07:50:43] ✓ Configuration loaded
+[2026-10-03 07:50:43] ✓ Found 295 previously generated articles
+[2026-10-03 07:50:43] ✓ Topic pool contains 13065 unique topics
+[2026-10-03 07:50:43] ✓ Generated: Building a Career Around Arbitrum
+[2026-10-03 07:50:43]   └─ Saved to: articles/building-a-career-around-arbitrum.html
+[2026-10-03 07:50:43] ✓ Generated: Ethereum for Beginners: Step-by-Step Guide
+[2026-10-03 07:50:43]   └─ Saved to: articles/ethereum-for-beginners-step-by-step-guide.html
+[2026-10-03 07:50:43] ✓ Generated: How Bitcoin Compares Across Regions
+[2026-10-03 07:50:43]   └─ Saved to: articles/how-bitcoin-compares-across-regions.html
+[2026-10-03 07:50:43] ============================================================
+[2026-10-03 07:50:43] Generation complete: 3 new articles created
+[2026-10-03 07:50:43] ============================================================
