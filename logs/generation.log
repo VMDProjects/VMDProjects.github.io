@@ -1604,3 +1604,18 @@
 [2026-10-09 08:45:12] ============================================================
 [2026-10-09 08:45:12] Generation complete: 3 new articles created
 [2026-10-09 08:45:12] ============================================================
+[2026-10-10 08:17:06] ============================================================
+[2026-10-10 08:17:06] Starting content generation process
+[2026-10-10 08:17:06] ============================================================
+[2026-10-10 08:17:06] ✓ Configuration loaded
+[2026-10-10 08:17:06] ✓ Found 316 previously generated articles
+[2026-10-10 08:17:06] ✓ Topic pool contains 13065 unique topics
+[2026-10-10 08:17:06] ✓ Generated: Crypto Regulation in the United States Myths Debunked
+[2026-10-10 08:17:06]   └─ Saved to: articles/crypto-regulation-in-the-united-states-myths-debunked.html
+[2026-10-10 08:17:06] ✓ Generated: The Real Cost of Using Fantom
+[2026-10-10 08:17:06]   └─ Saved to: articles/the-real-cost-of-using-fantom.html
+[2026-10-10 08:17:06] ✓ Generated: StarkNet for Beginners: Step-by-Step Guide
+[2026-10-10 08:17:06]   └─ Saved to: articles/starknet-for-beginners-step-by-step-guide.html
+[2026-10-10 08:17:06] ============================================================
+[2026-10-10 08:17:06] Generation complete: 3 new articles created
+[2026-10-10 08:17:06] ============================================================
