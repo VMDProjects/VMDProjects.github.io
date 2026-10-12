@@ -1634,3 +1634,18 @@
 [2026-10-11 08:33:59] ============================================================
 [2026-10-11 08:33:59] Generation complete: 3 new articles created
 [2026-10-11 08:33:59] ============================================================
+[2026-10-12 08:54:26] ============================================================
+[2026-10-12 08:54:26] Starting content generation process
+[2026-10-12 08:54:26] ============================================================
+[2026-10-12 08:54:26] ✓ Configuration loaded
+[2026-10-12 08:54:26] ✓ Found 322 previously generated articles
+[2026-10-12 08:54:26] ✓ Topic pool contains 13065 unique topics
+[2026-10-12 08:54:26] ✓ Generated: Building a Career Around Solana
+[2026-10-12 08:54:26]   └─ Saved to: articles/building-a-career-around-solana.html
+[2026-10-12 08:54:26] ✓ Generated: What Experts Are Saying About Perpetual Futures Protocols in 2025
+[2026-10-12 08:54:26]   └─ Saved to: articles/what-experts-are-saying-about-perpetual-futures-protocols-in-2025.html
+[2026-10-12 08:54:26] ✓ Generated: Privacy Coins and the Future of Payments
+[2026-10-12 08:54:26]   └─ Saved to: articles/privacy-coins-and-the-future-of-payments.html
+[2026-10-12 08:54:26] ============================================================
+[2026-10-12 08:54:26] Generation complete: 3 new articles created
+[2026-10-12 08:54:26] ============================================================
