@@ -1649,3 +1649,18 @@
 [2026-10-12 08:54:26] ============================================================
 [2026-10-12 08:54:26] Generation complete: 3 new articles created
 [2026-10-12 08:54:26] ============================================================
+[2026-10-13 09:09:44] ============================================================
+[2026-10-13 09:09:44] Starting content generation process
+[2026-10-13 09:09:44] ============================================================
+[2026-10-13 09:09:44] ✓ Configuration loaded
+[2026-10-13 09:09:44] ✓ Found 325 previously generated articles
+[2026-10-13 09:09:44] ✓ Topic pool contains 13065 unique topics
+[2026-10-13 09:09:44] ✓ Generated: The Real Cost of Using Yield Farming
+[2026-10-13 09:09:44]   └─ Saved to: articles/the-real-cost-of-using-yield-farming.html
+[2026-10-13 09:09:44] ✓ Generated: Supply Chain on Blockchain Use Cases Beyond Speculation
+[2026-10-13 09:09:44]   └─ Saved to: articles/supply-chain-on-blockchain-use-cases-beyond-speculation.html
+[2026-10-13 09:09:44] ✓ Generated: Is Now the Time to Get Into Internet Computer?
+[2026-10-13 09:09:44]   └─ Saved to: articles/is-now-the-time-to-get-into-internet-computer.html
+[2026-10-13 09:09:44] ============================================================
+[2026-10-13 09:09:44] Generation complete: 3 new articles created
+[2026-10-13 09:09:44] ============================================================
