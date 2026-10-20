@@ -1754,3 +1754,18 @@
 [2026-10-19 07:32:24] ============================================================
 [2026-10-19 07:32:24] Generation complete: 3 new articles created
 [2026-10-19 07:32:24] ============================================================
+[2026-10-20 07:20:55] ============================================================
+[2026-10-20 07:20:55] Starting content generation process
+[2026-10-20 07:20:55] ============================================================
+[2026-10-20 07:20:55] ✓ Configuration loaded
+[2026-10-20 07:20:55] ✓ Found 346 previously generated articles
+[2026-10-20 07:20:55] ✓ Topic pool contains 13065 unique topics
+[2026-10-20 07:20:55] ✓ Generated: Seed Phrases Community and Ecosystem Overview
+[2026-10-20 07:20:55]   └─ Saved to: articles/seed-phrases-community-and-ecosystem-overview.html
+[2026-10-20 07:20:55] ✓ Generated: Decentralized Finance (DeFi) Case Studies: Real-World Examples
+[2026-10-20 07:20:55]   └─ Saved to: articles/decentralized-finance-defi-case-studies-real-world-examples.html
+[2026-10-20 07:20:55] ✓ Generated: Polkadot in 2025: Trends and Predictions
+[2026-10-20 07:20:55]   └─ Saved to: articles/polkadot-in-2025-trends-and-predictions.html
+[2026-10-20 07:20:55] ============================================================
+[2026-10-20 07:20:55] Generation complete: 3 new articles created
+[2026-10-20 07:20:55] ============================================================
