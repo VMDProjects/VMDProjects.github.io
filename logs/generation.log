@@ -1769,3 +1769,18 @@
 [2026-10-20 07:20:55] ============================================================
 [2026-10-20 07:20:55] Generation complete: 3 new articles created
 [2026-10-20 07:20:55] ============================================================
+[2026-10-21 07:20:35] ============================================================
+[2026-10-21 07:20:35] Starting content generation process
+[2026-10-21 07:20:35] ============================================================
+[2026-10-21 07:20:35] ✓ Configuration loaded
+[2026-10-21 07:20:35] ✓ Found 349 previously generated articles
+[2026-10-21 07:20:35] ✓ Topic pool contains 13065 unique topics
+[2026-10-21 07:20:35] ✓ Generated: Avalanche Success Stories and Lessons Learned
+[2026-10-21 07:20:35]   └─ Saved to: articles/avalanche-success-stories-and-lessons-learned.html
+[2026-10-21 07:20:35] ✓ Generated: Kaspa Success Stories and Lessons Learned
+[2026-10-21 07:20:35]   └─ Saved to: articles/kaspa-success-stories-and-lessons-learned.html
+[2026-10-21 07:20:35] ✓ Generated: How to Get Started with Decentralized Storage Today
+[2026-10-21 07:20:35]   └─ Saved to: articles/how-to-get-started-with-decentralized-storage-today.html
+[2026-10-21 07:20:35] ============================================================
+[2026-10-21 07:20:35] Generation complete: 3 new articles created
+[2026-10-21 07:20:35] ============================================================
