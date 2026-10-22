@@ -1784,3 +1784,18 @@
 [2026-10-21 07:20:35] ============================================================
 [2026-10-21 07:20:35] Generation complete: 3 new articles created
 [2026-10-21 07:20:35] ============================================================
+[2026-10-22 07:21:22] ============================================================
+[2026-10-22 07:21:22] Starting content generation process
+[2026-10-22 07:21:22] ============================================================
+[2026-10-22 07:21:22] ✓ Configuration loaded
+[2026-10-22 07:21:22] ✓ Found 352 previously generated articles
+[2026-10-22 07:21:23] ✓ Topic pool contains 13065 unique topics
+[2026-10-22 07:21:23] ✓ Generated: Injective Security Best Practices
+[2026-10-22 07:21:23]   └─ Saved to: articles/injective-security-best-practices.html
+[2026-10-22 07:21:23] ✓ Generated: How to Research Automated Market Makers Like a Pro
+[2026-10-22 07:21:23]   └─ Saved to: articles/how-to-research-automated-market-makers-like-a-pro.html
+[2026-10-22 07:21:23] ✓ Generated: Getting Expert-Level Knowledge of Decentralized Derivatives
+[2026-10-22 07:21:23]   └─ Saved to: articles/getting-expert-level-knowledge-of-decentralized-derivatives.html
+[2026-10-22 07:21:23] ============================================================
+[2026-10-22 07:21:23] Generation complete: 3 new articles created
+[2026-10-22 07:21:23] ============================================================
