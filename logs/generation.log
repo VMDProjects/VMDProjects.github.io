@@ -1799,3 +1799,18 @@
 [2026-10-22 07:21:23] ============================================================
 [2026-10-22 07:21:23] Generation complete: 3 new articles created
 [2026-10-22 07:21:23] ============================================================
+[2026-10-23 07:14:57] ============================================================
+[2026-10-23 07:14:57] Starting content generation process
+[2026-10-23 07:14:57] ============================================================
+[2026-10-23 07:14:57] ✓ Configuration loaded
+[2026-10-23 07:14:57] ✓ Found 355 previously generated articles
+[2026-10-23 07:14:57] ✓ Topic pool contains 13065 unique topics
+[2026-10-23 07:14:57] ✓ Generated: Modular Blockchains Glossary: Key Terms Defined
+[2026-10-23 07:14:57]   └─ Saved to: articles/modular-blockchains-glossary-key-terms-defined.html
+[2026-10-23 07:14:57] ✓ Generated: Advanced Cold Storage Strategies for Experienced Users
+[2026-10-23 07:14:57]   └─ Saved to: articles/advanced-cold-storage-strategies-for-experienced-users.html
+[2026-10-23 07:14:57] ✓ Generated: MakerDAO: What Changed in the Last Year
+[2026-10-23 07:14:57]   └─ Saved to: articles/makerdao-what-changed-in-the-last-year.html
+[2026-10-23 07:14:57] ============================================================
+[2026-10-23 07:14:57] Generation complete: 3 new articles created
+[2026-10-23 07:14:57] ============================================================
