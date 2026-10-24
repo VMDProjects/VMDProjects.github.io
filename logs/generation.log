@@ -1814,3 +1814,18 @@
 [2026-10-23 07:14:57] ============================================================
 [2026-10-23 07:14:57] Generation complete: 3 new articles created
 [2026-10-23 07:14:57] ============================================================
+[2026-10-24 07:03:12] ============================================================
+[2026-10-24 07:03:12] Starting content generation process
+[2026-10-24 07:03:12] ============================================================
+[2026-10-24 07:03:12] ✓ Configuration loaded
+[2026-10-24 07:03:12] ✓ Found 358 previously generated articles
+[2026-10-24 07:03:12] ✓ Topic pool contains 13065 unique topics
+[2026-10-24 07:03:12] ✓ Generated: How Governments Are Responding to Crypto ETFs
+[2026-10-24 07:03:12]   └─ Saved to: articles/how-governments-are-responding-to-crypto-etfs.html
+[2026-10-24 07:03:12] ✓ Generated: Why The Graph Matters for Everyday Investors
+[2026-10-24 07:03:12]   └─ Saved to: articles/why-the-graph-matters-for-everyday-investors.html
+[2026-10-24 07:03:12] ✓ Generated: VeChain for Beginners: Step-by-Step Guide
+[2026-10-24 07:03:12]   └─ Saved to: articles/vechain-for-beginners-step-by-step-guide.html
+[2026-10-24 07:03:12] ============================================================
+[2026-10-24 07:03:12] Generation complete: 3 new articles created
+[2026-10-24 07:03:12] ============================================================
