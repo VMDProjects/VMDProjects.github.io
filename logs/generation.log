@@ -1829,3 +1829,18 @@
 [2026-10-24 07:03:12] ============================================================
 [2026-10-24 07:03:12] Generation complete: 3 new articles created
 [2026-10-24 07:03:12] ============================================================
+[2026-10-25 07:27:27] ============================================================
+[2026-10-25 07:27:27] Starting content generation process
+[2026-10-25 07:27:27] ============================================================
+[2026-10-25 07:27:27] ✓ Configuration loaded
+[2026-10-25 07:27:27] ✓ Found 361 previously generated articles
+[2026-10-25 07:27:27] ✓ Topic pool contains 13065 unique topics
+[2026-10-25 07:27:27] ✓ Generated: The Pros and Cons of Cardano
+[2026-10-25 07:27:27]   └─ Saved to: articles/the-pros-and-cons-of-cardano.html
+[2026-10-25 07:27:27] ✓ Generated: Crypto Index Funds Success Stories and Lessons Learned
+[2026-10-25 07:27:27]   └─ Saved to: articles/crypto-index-funds-success-stories-and-lessons-learned.html
+[2026-10-25 07:27:27] ✓ Generated: Algorithmic Crypto Trading Case Studies: Real-World Examples
+[2026-10-25 07:27:27]   └─ Saved to: articles/algorithmic-crypto-trading-case-studies-real-world-examples.html
+[2026-10-25 07:27:27] ============================================================
+[2026-10-25 07:27:27] Generation complete: 3 new articles created
+[2026-10-25 07:27:27] ============================================================
