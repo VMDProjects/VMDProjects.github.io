@@ -1844,3 +1844,18 @@
 [2026-10-25 07:27:27] ============================================================
 [2026-10-25 07:27:27] Generation complete: 3 new articles created
 [2026-10-25 07:27:27] ============================================================
+[2026-10-26 07:37:10] ============================================================
+[2026-10-26 07:37:10] Starting content generation process
+[2026-10-26 07:37:10] ============================================================
+[2026-10-26 07:37:10] ✓ Configuration loaded
+[2026-10-26 07:37:10] ✓ Found 364 previously generated articles
+[2026-10-26 07:37:10] ✓ Topic pool contains 13065 unique topics
+[2026-10-26 07:37:10] ✓ Generated: Bitcoin Cash Explained in Plain English
+[2026-10-26 07:37:10]   └─ Saved to: articles/bitcoin-cash-explained-in-plain-english.html
+[2026-10-26 07:37:10] ✓ Generated: On-Chain Analysis: What the Data Actually Shows
+[2026-10-26 07:37:10]   └─ Saved to: articles/on-chain-analysis-what-the-data-actually-shows.html
+[2026-10-26 07:37:10] ✓ Generated: A Beginner's Roadmap to Privacy Coins
+[2026-10-26 07:37:10]   └─ Saved to: articles/a-beginner-s-roadmap-to-privacy-coins.html
+[2026-10-26 07:37:10] ============================================================
+[2026-10-26 07:37:10] Generation complete: 3 new articles created
+[2026-10-26 07:37:10] ============================================================
