@@ -1859,3 +1859,18 @@
 [2026-10-26 07:37:10] ============================================================
 [2026-10-26 07:37:10] Generation complete: 3 new articles created
 [2026-10-26 07:37:10] ============================================================
+[2026-10-27 07:34:44] ============================================================
+[2026-10-27 07:34:44] Starting content generation process
+[2026-10-27 07:34:44] ============================================================
+[2026-10-27 07:34:44] ✓ Configuration loaded
+[2026-10-27 07:34:44] ✓ Found 367 previously generated articles
+[2026-10-27 07:34:44] ✓ Topic pool contains 13065 unique topics
+[2026-10-27 07:34:44] ✓ Generated: How Governments Are Responding to Bitcoin ETFs
+[2026-10-27 07:34:44]   └─ Saved to: articles/how-governments-are-responding-to-bitcoin-etfs.html
+[2026-10-27 07:34:44] ✓ Generated: Restaking and the Future of Payments
+[2026-10-27 07:34:44]   └─ Saved to: articles/restaking-and-the-future-of-payments.html
+[2026-10-27 07:34:44] ✓ Generated: Blockchain Technology: Long-Term Outlook and Predictions
+[2026-10-27 07:34:44]   └─ Saved to: articles/blockchain-technology-long-term-outlook-and-predictions.html
+[2026-10-27 07:34:44] ============================================================
+[2026-10-27 07:34:44] Generation complete: 3 new articles created
+[2026-10-27 07:34:44] ============================================================
