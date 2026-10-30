@@ -1904,3 +1904,18 @@
 [2026-10-29 08:15:43] ============================================================
 [2026-10-29 08:15:43] Generation complete: 3 new articles created
 [2026-10-29 08:15:43] ============================================================
+[2026-10-30 08:22:44] ============================================================
+[2026-10-30 08:22:44] Starting content generation process
+[2026-10-30 08:22:44] ============================================================
+[2026-10-30 08:22:44] ✓ Configuration loaded
+[2026-10-30 08:22:44] ✓ Found 376 previously generated articles
+[2026-10-30 08:22:44] ✓ Topic pool contains 13065 unique topics
+[2026-10-30 08:22:44] ✓ Generated: Crypto Fundamental Analysis Terminology Every Beginner Should Know
+[2026-10-30 08:22:44]   └─ Saved to: articles/crypto-fundamental-analysis-terminology-every-beginner-should-know.html
+[2026-10-30 08:22:44] ✓ Generated: Base Integration Guide for Developers
+[2026-10-30 08:22:44]   └─ Saved to: articles/base-integration-guide-for-developers.html
+[2026-10-30 08:22:44] ✓ Generated: Top 10 Things to Know About Algorand
+[2026-10-30 08:22:44]   └─ Saved to: articles/top-10-things-to-know-about-algorand.html
+[2026-10-30 08:22:44] ============================================================
+[2026-10-30 08:22:44] Generation complete: 3 new articles created
+[2026-10-30 08:22:44] ============================================================
