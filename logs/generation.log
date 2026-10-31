@@ -1919,3 +1919,18 @@
 [2026-10-30 08:22:44] ============================================================
 [2026-10-30 08:22:44] Generation complete: 3 new articles created
 [2026-10-30 08:22:44] ============================================================
+[2026-10-31 08:12:33] ============================================================
+[2026-10-31 08:12:33] Starting content generation process
+[2026-10-31 08:12:33] ============================================================
+[2026-10-31 08:12:33] ✓ Configuration loaded
+[2026-10-31 08:12:33] ✓ Found 379 previously generated articles
+[2026-10-31 08:12:33] ✓ Topic pool contains 13065 unique topics
+[2026-10-31 08:12:33] ✓ Generated: Near Protocol Explained in Plain English
+[2026-10-31 08:12:33]   └─ Saved to: articles/near-protocol-explained-in-plain-english.html
+[2026-10-31 08:12:33] ✓ Generated: Crypto Custody Regulations: What Changed in the Last Year
+[2026-10-31 08:12:33]   └─ Saved to: articles/crypto-custody-regulations-what-changed-in-the-last-year.html
+[2026-10-31 08:12:33] ✓ Generated: Is SEC and Crypto Regulation Overhyped? A Balanced Look
+[2026-10-31 08:12:33]   └─ Saved to: articles/is-sec-and-crypto-regulation-overhyped-a-balanced-look.html
+[2026-10-31 08:12:33] ============================================================
+[2026-10-31 08:12:33] Generation complete: 3 new articles created
+[2026-10-31 08:12:33] ============================================================
