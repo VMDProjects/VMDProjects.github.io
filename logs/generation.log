@@ -2024,3 +2024,18 @@
 [2026-11-06 09:06:28] ============================================================
 [2026-11-06 09:06:28] Generation complete: 3 new articles created
 [2026-11-06 09:06:28] ============================================================
+[2026-11-07 08:33:41] ============================================================
+[2026-11-07 08:33:41] Starting content generation process
+[2026-11-07 08:33:41] ============================================================
+[2026-11-07 08:33:41] ✓ Configuration loaded
+[2026-11-07 08:33:41] ✓ Found 400 previously generated articles
+[2026-11-07 08:33:41] ✓ Topic pool contains 13065 unique topics
+[2026-11-07 08:33:41] ✓ Generated: What Experts Are Saying About Filecoin in 2025
+[2026-11-07 08:33:41]   └─ Saved to: articles/what-experts-are-saying-about-filecoin-in-2025.html
+[2026-11-07 08:33:41] ✓ Generated: How Governments Are Responding to Quantum Computing and Cryptography
+[2026-11-07 08:33:41]   └─ Saved to: articles/how-governments-are-responding-to-quantum-computing-and-cryptography.html
+[2026-11-07 08:33:41] ✓ Generated: Near Protocol Use Cases Beyond Speculation
+[2026-11-07 08:33:41]   └─ Saved to: articles/near-protocol-use-cases-beyond-speculation.html
+[2026-11-07 08:33:41] ============================================================
+[2026-11-07 08:33:41] Generation complete: 3 new articles created
+[2026-11-07 08:33:41] ============================================================
