@@ -2039,3 +2039,18 @@
 [2026-11-07 08:33:41] ============================================================
 [2026-11-07 08:33:41] Generation complete: 3 new articles created
 [2026-11-07 08:33:41] ============================================================
+[2026-11-08 08:46:53] ============================================================
+[2026-11-08 08:46:53] Starting content generation process
+[2026-11-08 08:46:53] ============================================================
+[2026-11-08 08:46:53] ✓ Configuration loaded
+[2026-11-08 08:46:53] ✓ Found 403 previously generated articles
+[2026-11-08 08:46:53] ✓ Topic pool contains 13065 unique topics
+[2026-11-08 08:46:53] ✓ Generated: Fantom: What Changed in the Last Year
+[2026-11-08 08:46:53]   └─ Saved to: articles/fantom-what-changed-in-the-last-year.html
+[2026-11-08 08:46:53] ✓ Generated: Crypto Philanthropy: What Changed in the Last Year
+[2026-11-08 08:46:53]   └─ Saved to: articles/crypto-philanthropy-what-changed-in-the-last-year.html
+[2026-11-08 08:46:53] ✓ Generated: Celestia Regulations: A Global Overview
+[2026-11-08 08:46:53]   └─ Saved to: articles/celestia-regulations-a-global-overview.html
+[2026-11-08 08:46:53] ============================================================
+[2026-11-08 08:46:53] Generation complete: 3 new articles created
+[2026-11-08 08:46:53] ============================================================
