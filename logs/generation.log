@@ -2054,3 +2054,18 @@
 [2026-11-08 08:46:53] ============================================================
 [2026-11-08 08:46:53] Generation complete: 3 new articles created
 [2026-11-08 08:46:53] ============================================================
+[2026-11-09 09:28:36] ============================================================
+[2026-11-09 09:28:36] Starting content generation process
+[2026-11-09 09:28:36] ============================================================
+[2026-11-09 09:28:36] ✓ Configuration loaded
+[2026-11-09 09:28:36] ✓ Found 406 previously generated articles
+[2026-11-09 09:28:36] ✓ Topic pool contains 13065 unique topics
+[2026-11-09 09:28:36] ✓ Generated: Top 10 Things to Know About Solana
+[2026-11-09 09:28:36]   └─ Saved to: articles/top-10-things-to-know-about-solana.html
+[2026-11-09 09:28:36] ✓ Generated: Day Trading Crypto Success Stories and Lessons Learned
+[2026-11-09 09:28:36]   └─ Saved to: articles/day-trading-crypto-success-stories-and-lessons-learned.html
+[2026-11-09 09:28:36] ✓ Generated: How Institutions Are Adopting Filecoin
+[2026-11-09 09:28:36]   └─ Saved to: articles/how-institutions-are-adopting-filecoin.html
+[2026-11-09 09:28:36] ============================================================
+[2026-11-09 09:28:36] Generation complete: 3 new articles created
+[2026-11-09 09:28:36] ============================================================
