@@ -2069,3 +2069,18 @@
 [2026-11-09 09:28:36] ============================================================
 [2026-11-09 09:28:36] Generation complete: 3 new articles created
 [2026-11-09 09:28:36] ============================================================
+[2026-11-10 09:30:20] ============================================================
+[2026-11-10 09:30:20] Starting content generation process
+[2026-11-10 09:30:20] ============================================================
+[2026-11-10 09:30:20] ✓ Configuration loaded
+[2026-11-10 09:30:20] ✓ Found 409 previously generated articles
+[2026-11-10 09:30:20] ✓ Topic pool contains 13065 unique topics
+[2026-11-10 09:30:20] ✓ Generated: The Hidden Risks of Ignoring Private Key Management
+[2026-11-10 09:30:20]   └─ Saved to: articles/the-hidden-risks-of-ignoring-private-key-management.html
+[2026-11-10 09:30:20] ✓ Generated: Cosmos Integration Guide for Developers
+[2026-11-10 09:30:20]   └─ Saved to: articles/cosmos-integration-guide-for-developers.html
+[2026-11-10 09:30:20] ✓ Generated: A Beginner's Roadmap to Tezos
+[2026-11-10 09:30:20]   └─ Saved to: articles/a-beginner-s-roadmap-to-tezos.html
+[2026-11-10 09:30:20] ============================================================
+[2026-11-10 09:30:20] Generation complete: 3 new articles created
+[2026-11-10 09:30:20] ============================================================
