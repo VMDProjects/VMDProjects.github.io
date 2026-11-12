@@ -2099,3 +2099,18 @@
 [2026-11-11 09:04:27] ============================================================
 [2026-11-11 09:04:27] Generation complete: 3 new articles created
 [2026-11-11 09:04:27] ============================================================
+[2026-11-12 09:33:11] ============================================================
+[2026-11-12 09:33:11] Starting content generation process
+[2026-11-12 09:33:11] ============================================================
+[2026-11-12 09:33:11] ✓ Configuration loaded
+[2026-11-12 09:33:11] ✓ Found 415 previously generated articles
+[2026-11-12 09:33:11] ✓ Topic pool contains 13065 unique topics
+[2026-11-12 09:33:11] ✓ Generated: The Real Cost of Using Algorithmic Crypto Trading
+[2026-11-12 09:33:11]   └─ Saved to: articles/the-real-cost-of-using-algorithmic-crypto-trading.html
+[2026-11-12 09:33:11] ✓ Generated: Crypto Regulation in Asia Roadmap: What's Coming Next
+[2026-11-12 09:33:11]   └─ Saved to: articles/crypto-regulation-in-asia-roadmap-what-s-coming-next.html
+[2026-11-12 09:33:11] ✓ Generated: Preparing for the Next Phase of Ethereum
+[2026-11-12 09:33:11]   └─ Saved to: articles/preparing-for-the-next-phase-of-ethereum.html
+[2026-11-12 09:33:11] ============================================================
+[2026-11-12 09:33:11] Generation complete: 3 new articles created
+[2026-11-12 09:33:11] ============================================================
