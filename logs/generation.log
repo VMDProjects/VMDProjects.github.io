@@ -2144,3 +2144,18 @@
 [2026-11-14 08:47:26] ============================================================
 [2026-11-14 08:47:26] Generation complete: 3 new articles created
 [2026-11-14 08:47:26] ============================================================
+[2026-11-15 09:00:22] ============================================================
+[2026-11-15 09:00:22] Starting content generation process
+[2026-11-15 09:00:22] ============================================================
+[2026-11-15 09:00:22] ✓ Configuration loaded
+[2026-11-15 09:00:22] ✓ Found 424 previously generated articles
+[2026-11-15 09:00:22] ✓ Topic pool contains 13065 unique topics
+[2026-11-15 09:00:22] ✓ Generated: Spot Trading: What the Data Actually Shows
+[2026-11-15 09:00:22]   └─ Saved to: articles/spot-trading-what-the-data-actually-shows.html
+[2026-11-15 09:00:22] ✓ Generated: How to Research Uniswap Like a Pro
+[2026-11-15 09:00:22]   └─ Saved to: articles/how-to-research-uniswap-like-a-pro.html
+[2026-11-15 09:00:22] ✓ Generated: The Real Cost of Using Ethereum ETFs
+[2026-11-15 09:00:22]   └─ Saved to: articles/the-real-cost-of-using-ethereum-etfs.html
+[2026-11-15 09:00:22] ============================================================
+[2026-11-15 09:00:22] Generation complete: 3 new articles created
+[2026-11-15 09:00:22] ============================================================
