@@ -2204,3 +2204,18 @@
 [2026-11-18 09:56:04] ============================================================
 [2026-11-18 09:56:04] Generation complete: 3 new articles created
 [2026-11-18 09:56:04] ============================================================
+[2026-11-19 10:03:17] ============================================================
+[2026-11-19 10:03:17] Starting content generation process
+[2026-11-19 10:03:17] ============================================================
+[2026-11-19 10:03:17] ✓ Configuration loaded
+[2026-11-19 10:03:17] ✓ Found 436 previously generated articles
+[2026-11-19 10:03:17] ✓ Topic pool contains 13065 unique topics
+[2026-11-19 10:03:17] ✓ Generated: Sui Myths Debunked
+[2026-11-19 10:03:17]   └─ Saved to: articles/sui-myths-debunked.html
+[2026-11-19 10:03:17] ✓ Generated: How to Research Mantle Like a Pro
+[2026-11-19 10:03:17]   └─ Saved to: articles/how-to-research-mantle-like-a-pro.html
+[2026-11-19 10:03:17] ✓ Generated: Blockchain Governance Fees Explained: What You're Really Paying
+[2026-11-19 10:03:17]   └─ Saved to: articles/blockchain-governance-fees-explained-what-you-re-really-paying.html
+[2026-11-19 10:03:17] ============================================================
+[2026-11-19 10:03:17] Generation complete: 3 new articles created
+[2026-11-19 10:03:17] ============================================================
