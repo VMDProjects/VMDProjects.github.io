@@ -2249,3 +2249,18 @@
 [2026-11-21 09:27:39] ============================================================
 [2026-11-21 09:27:39] Generation complete: 3 new articles created
 [2026-11-21 09:27:39] ============================================================
+[2026-11-22 09:32:56] ============================================================
+[2026-11-22 09:32:56] Starting content generation process
+[2026-11-22 09:32:56] ============================================================
+[2026-11-22 09:32:56] ✓ Configuration loaded
+[2026-11-22 09:32:56] ✓ Found 445 previously generated articles
+[2026-11-22 09:32:56] ✓ Topic pool contains 13065 unique topics
+[2026-11-22 09:32:56] ✓ Generated: The Pros and Cons of Decentralized Finance (DeFi)
+[2026-11-22 09:32:56]   └─ Saved to: articles/the-pros-and-cons-of-decentralized-finance-defi.html
+[2026-11-22 09:32:56] ✓ Generated: Liquid Staking: What Changed in the Last Year
+[2026-11-22 09:32:56]   └─ Saved to: articles/liquid-staking-what-changed-in-the-last-year.html
+[2026-11-22 09:32:56] ✓ Generated: The Real Cost of Using Bitcoin ETFs
+[2026-11-22 09:32:56]   └─ Saved to: articles/the-real-cost-of-using-bitcoin-etfs.html
+[2026-11-22 09:32:56] ============================================================
+[2026-11-22 09:32:56] Generation complete: 3 new articles created
+[2026-11-22 09:32:56] ============================================================
