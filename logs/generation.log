@@ -2294,3 +2294,18 @@
 [2026-11-24 12:13:13] ============================================================
 [2026-11-24 12:13:13] Generation complete: 3 new articles created
 [2026-11-24 12:13:13] ============================================================
+[2026-11-25 11:01:18] ============================================================
+[2026-11-25 11:01:18] Starting content generation process
+[2026-11-25 11:01:18] ============================================================
+[2026-11-25 11:01:18] ✓ Configuration loaded
+[2026-11-25 11:01:18] ✓ Found 454 previously generated articles
+[2026-11-25 11:01:18] ✓ Topic pool contains 13065 unique topics
+[2026-11-25 11:01:18] ✓ Generated: Building a Career Around Crypto Taxes
+[2026-11-25 11:01:18]   └─ Saved to: articles/building-a-career-around-crypto-taxes.html
+[2026-11-25 11:01:18] ✓ Generated: The History and Evolution of Crypto Debit Cards
+[2026-11-25 11:01:18]   └─ Saved to: articles/the-history-and-evolution-of-crypto-debit-cards.html
+[2026-11-25 11:01:18] ✓ Generated: Ledger Hardware Wallets Compliance Checklist for 2025
+[2026-11-25 11:01:18]   └─ Saved to: articles/ledger-hardware-wallets-compliance-checklist-for-2025.html
+[2026-11-25 11:01:18] ============================================================
+[2026-11-25 11:01:18] Generation complete: 3 new articles created
+[2026-11-25 11:01:18] ============================================================
