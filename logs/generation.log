@@ -2309,3 +2309,18 @@
 [2026-11-25 11:01:18] ============================================================
 [2026-11-25 11:01:18] Generation complete: 3 new articles created
 [2026-11-25 11:01:18] ============================================================
+[2026-11-26 10:39:20] ============================================================
+[2026-11-26 10:39:20] Starting content generation process
+[2026-11-26 10:39:20] ============================================================
+[2026-11-26 10:39:20] ✓ Configuration loaded
+[2026-11-26 10:39:20] ✓ Found 457 previously generated articles
+[2026-11-26 10:39:20] ✓ Topic pool contains 13065 unique topics
+[2026-11-26 10:39:20] ✓ Generated: Polygon Fees Explained: What You're Really Paying
+[2026-11-26 10:39:20]   └─ Saved to: articles/polygon-fees-explained-what-you-re-really-paying.html
+[2026-11-26 10:39:20] ✓ Generated: Yield Farming Success Stories and Lessons Learned
+[2026-11-26 10:39:20]   └─ Saved to: articles/yield-farming-success-stories-and-lessons-learned.html
+[2026-11-26 10:39:20] ✓ Generated: Crypto for the Unbanked Security Best Practices
+[2026-11-26 10:39:20]   └─ Saved to: articles/crypto-for-the-unbanked-security-best-practices.html
+[2026-11-26 10:39:20] ============================================================
+[2026-11-26 10:39:20] Generation complete: 3 new articles created
+[2026-11-26 10:39:20] ============================================================
