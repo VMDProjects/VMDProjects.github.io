@@ -2339,3 +2339,18 @@
 [2026-11-27 10:41:14] ============================================================
 [2026-11-27 10:41:14] Generation complete: 3 new articles created
 [2026-11-27 10:41:14] ============================================================
+[2026-11-28 10:00:21] ============================================================
+[2026-11-28 10:00:21] Starting content generation process
+[2026-11-28 10:00:21] ============================================================
+[2026-11-28 10:00:21] ✓ Configuration loaded
+[2026-11-28 10:00:21] ✓ Found 463 previously generated articles
+[2026-11-28 10:00:21] ✓ Topic pool contains 13065 unique topics
+[2026-11-28 10:00:21] ✓ Generated: Preparing for the Next Phase of Compound Finance
+[2026-11-28 10:00:21]   └─ Saved to: articles/preparing-for-the-next-phase-of-compound-finance.html
+[2026-11-28 10:00:21] ✓ Generated: DeFi Aggregators Risks: What Nobody Tells You
+[2026-11-28 10:00:21]   └─ Saved to: articles/defi-aggregators-risks-what-nobody-tells-you.html
+[2026-11-28 10:00:21] ✓ Generated: Is Uniswap Safe? A Security Analysis
+[2026-11-28 10:00:21]   └─ Saved to: articles/is-uniswap-safe-a-security-analysis.html
+[2026-11-28 10:00:21] ============================================================
+[2026-11-28 10:00:21] Generation complete: 3 new articles created
+[2026-11-28 10:00:21] ============================================================
